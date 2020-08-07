@@ -1,5 +1,5 @@
 {
-  "name": "tindev",
+  "name": "AwesomeProject",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,10 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@react-native-community/cli-platform-android": "3.0.3",
     "react": "16.13.1",
-    "react-native": "0.63.2",
-    "react-native-navigation": "^6.11.0"
+    "react-native": "0.63.2"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
